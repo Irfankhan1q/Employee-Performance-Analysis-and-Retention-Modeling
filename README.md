@@ -41,7 +41,7 @@ Work Settings: Hybrid, in-person, and remote arrangements.
 - 2023 has the highest salary distribution.
 
 **Dashboard** 
-![Employee Analysis Dashboard](images/dash 12.png "Employee Dashboard")
+![Employee Analysis Dashboard](dash 12.png "Employee Dashboard")
 
 
 ### Recommendations
