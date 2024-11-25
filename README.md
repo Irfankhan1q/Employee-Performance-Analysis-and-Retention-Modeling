@@ -40,6 +40,9 @@ Work Settings: Hybrid, in-person, and remote arrangements.
 - Senior-level full-time employees earn the highest salaries.
 - 2023 has the highest salary distribution.
 
+**Dashboard** 
+![Employee Analysis](dash 12.png "Employee Performance Analysis")
+
 ### Recommendations
 1.	Retention Strategies:
 - Offer competitive salaries for underpaid regions like Indonesia.
