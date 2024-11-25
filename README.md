@@ -35,6 +35,7 @@ Work Settings: Hybrid, in-person, and remote arrangements.
 **1.	Attrition Model:**
 - Achieved 100% accuracy in predicting attrition.
 - Key risk factors: experience level, salary, and job category.
+  
 **2.	Dashboard Insights:**
 - Senior-level full-time employees earn the highest salaries.
 - 2023 has the highest salary distribution.
