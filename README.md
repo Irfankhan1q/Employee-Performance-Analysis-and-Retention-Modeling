@@ -41,7 +41,8 @@ Work Settings: Hybrid, in-person, and remote arrangements.
 - 2023 has the highest salary distribution.
 
 **Dashboard** 
-!model.png
+![Employee Analysis Dashboard](images/dash 12.png "Employee Dashboard")
+
 
 ### Recommendations
 1.	Retention Strategies:
